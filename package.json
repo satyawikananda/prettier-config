@@ -1,0 +1,12 @@
+{
+  "name": "@satyawikananda/prettier-config",
+  "version": "0.0.2",
+  "description": "My personal prettier config",
+  "main": "index.js",
+  "keywords": [
+    "prettier-config",
+    "prettier"
+  ],
+  "author": "Satya Wikananda",
+  "license": "MIT"
+}
