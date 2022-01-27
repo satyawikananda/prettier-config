@@ -5,8 +5,8 @@ module.exports = {
     trailingComma: "all",
     endOfLine: "lf",
     bracketSpacing: true,
-    semiColons: false,
-    bracketLine: false,
+    semi: false,
+    bracketSameLine: false,
     vueIndentScriptAndStyle: false,
     jsxSingleQuote: false
 }
